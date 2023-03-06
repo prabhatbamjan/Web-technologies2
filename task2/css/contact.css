@@ -1,0 +1,71 @@
+.lo{
+    position: fixed;
+    height: 7vh;
+    left: 0px;
+    width: 200px;
+}
+.navbar{
+    background-color: chocolate;
+   
+    
+}
+nav ul {
+    overflow: auto;
+   
+ 
+ }
+.navbar li{
+    float:right;
+   list-style: none;
+   margin: 10px 10px;
+
+}
+.navbar li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+.ser{
+    float: right;
+    color: white;
+    padding: 12px 5px;
+   
+}
+.navbar input{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 4px 3px;
+}
+body{
+    background-image:url(./logo.avif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    display:grid;
+    place-items:center ;
+
+}
+
+
+.box {
+    width: 550px;
+    height: auto;
+    border: 1px solid black;
+    background-color: white;
+    margin: 0%;
+    padding: 20px;
+
+  }
+
+  .he{
+    width: 100%;
+    height: 30px;
+  }
+ 
+ 
+  .hw{
+    width: 100%;
+    color: black;
+    background-color: aqua;
+  }
+ 
